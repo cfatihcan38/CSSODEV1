@@ -1,0 +1,26 @@
+/*CSS*/
+body {background-image: url(https://cdn.okuldunyasi.com/wp-content/uploads/disli-carklar-seti.jpg);}
+
+.text-red 
+{
+    color:red;
+    font-size: 40px;
+    position: relative;
+    text-align: justify;
+    align="center"
+}
+.cirkin
+{
+ color: blue;
+ font-size:25px;
+}
+
+.orta {width: 300px;
+    margin: auto;  
+    background-color: white;
+    align="center"
+  }
+.altyazı{
+    color: green;
+    font-size: 15px;
+}
